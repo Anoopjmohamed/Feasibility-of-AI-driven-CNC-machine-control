@@ -1,0 +1,4 @@
+0 - Limit Positive
+1 - Limit Negative
+2 - Bump Positive
+3 - Bump Negative
