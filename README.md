@@ -1,6 +1,6 @@
 # Feasibility study to control the CNC machine using AI modelling.
 
-This Porject is performed as part of my MSc degree.
+
 The aim of the project is to determine the fault daignosis and motion control of a 3 axis CNC machine based on the fault diagnosis to be performed solely based on the AI modelling. 
 
 # Stage1: 
